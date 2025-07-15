@@ -1,0 +1,11 @@
+PWD /home/evan/Documents/Competitive Programming/amber-kactl/content/test-session
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /home/evan/Documents/Competitive Programming/amber-kactl/content/test-session/test-session.tex
+OUTPUT build/test-session.log
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
