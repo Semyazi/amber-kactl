@@ -1,0 +1,15 @@
+PWD /home/evan/Documents/Competitive Programming/amber-kactl/content
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /home/evan/Documents/Competitive Programming/amber-kactl/content/kactl.tex
+OUTPUT build/kactl.log
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extreport.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extreport.cls
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/size9.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/size9.clo
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/size9.clo
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/exscale.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/exscale.sty

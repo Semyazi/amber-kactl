@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1752893612.91191 "/home/evan/Documents/Competitive Programming/amber-kactl/content/kactl.tex" "build/kactl.pdf" "kactl" 1752893613.05324 2
+  "/home/evan/Documents/Competitive Programming/amber-kactl/content/kactl.tex" 1752893612.58983 989 da04f2f16135275c818d9d1a4bdc9b11 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/base/exscale.sty" 1705352648 2581 8e0df574a0fdf7d67e300be743ad323e ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extreport.cls" 1137110130 23786 cbd79291aa0922c48a73753b97cabb5f ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/size9.clo" 1137110130 6172 b9daf86befd6903b2699dddbd6fb97c1 ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1719785820 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1724175850 8239390 f6bc95c1d1d51aa8bd2ba561021015d7 ""
+  "/usr/local/texlive/2024/texmf.cnf" 1724175777.09098 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "build/kactl.aux" 1752893612.91083 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "build/kactlpkg.sty" 0 -1 0 ""
+  "kactl.tex" 1752893612.58983 989 da04f2f16135275c818d9d1a4bdc9b11 ""
+  "kactlpkg.sty" 0 -1 0 ""
+  (generated)
+  "build/kactl.aux"
+  "build/kactl.log"
+  "build/kactl.pdf"
+  (rewritten before read)
